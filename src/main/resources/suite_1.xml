@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Simple TestNG HTML test">
+
+    <test name="Simple TestNG HTML test">
+        <classes>
+            <class name="testPackage.GoogleIsUp" />
+        </classes>
+    </test>
+</suite>
